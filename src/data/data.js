@@ -19,7 +19,7 @@ export const data=[
     },
     {
         id:3,
-        name:"TODO - ROR REACT",
+        name:"Todo - ROR REACT",
         image:Todo,
         github:"https://github.com/Mirciu99/TODO-APP-ROR-REACT",
         live:"https://todo-yv7g.onrender.com/",
